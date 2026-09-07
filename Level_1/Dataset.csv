@@ -1,0 +1,201 @@
+Restaurant ID,Restaurant Name,Country Code,City,Address,Locality,Longitude,Latitude,Cuisines,Average Cost for two,Currency,Has Table booking,Has Online delivery,Is delivering now,Price range,Aggregate Rating,Rating color,Rating text,Votes
+100001,Restaurant 1,1,New Delhi,Sample Address 1,Sector 18,85.00525596038649,21.579659392713413,Bakery,2165,Indian Rupees(Rs.),Yes,Yes,No,2,3.6,Green,Good,1982
+100002,Restaurant 2,1,Pune,Sample Address 2,Mall Road,88.05767488915718,27.868107334258653,Fast Food,755,Indian Rupees(Rs.),No,Yes,Yes,1,3.6,Green,Good,1112
+100003,Restaurant 3,1,Kolkata,Sample Address 3,Sector 18,80.66163662337678,26.469199161401463,Bakery,889,Indian Rupees(Rs.),No,Yes,Yes,1,4.4,Green,Good,2472
+100004,Restaurant 4,1,Mumbai,Sample Address 4,Main Market,75.05919079005463,19.628001792160326,Cafe,941,Indian Rupees(Rs.),Yes,Yes,Yes,2,4.1,Green,Good,157
+100005,Restaurant 5,1,Mumbai,Sample Address 5,Sector 18,73.01879971701877,28.669753509943245,Mughlai,607,Indian Rupees(Rs.),Yes,Yes,No,2,2.1,Green,Good,430
+100006,Restaurant 6,1,Pune,Sample Address 6,Sector 18,76.40559967098203,27.467840247939,Bakery,557,Indian Rupees(Rs.),No,Yes,Yes,4,2.1,Green,Good,2421
+100007,Restaurant 7,1,New Delhi,Sample Address 7,Mall Road,74.86960881924838,21.3958660662132,South Indian,998,Indian Rupees(Rs.),Yes,Yes,Yes,1,3.7,Green,Good,721
+100008,Restaurant 8,1,Kolkata,Sample Address 8,Mall Road,83.43924117572186,27.036345112541568,Mughlai,2210,Indian Rupees(Rs.),No,Yes,Yes,4,3.4,Green,Good,776
+100009,Restaurant 9,1,Gurgaon,Sample Address 9,Sector 18,74.71277032266794,19.585479225088104,Italian,203,Indian Rupees(Rs.),Yes,Yes,No,1,2.8,Green,Good,1978
+100010,Restaurant 10,1,New Delhi,Sample Address 10,Mall Road,80.74937992644394,28.690868250837234,Bakery,851,Indian Rupees(Rs.),Yes,No,No,1,3.2,Green,Good,473
+100011,Restaurant 11,1,Bengaluru,Sample Address 11,Sector 18,83.69992023959331,25.289984308286677,South Indian,339,Indian Rupees(Rs.),No,Yes,Yes,3,4.2,Green,Good,1283
+100012,Restaurant 12,1,Hyderabad,Sample Address 12,Main Market,81.92353076476817,25.13127515869973,Cafe,1491,Indian Rupees(Rs.),Yes,No,Yes,4,4.4,Green,Good,715
+100013,Restaurant 13,1,Kolkata,Sample Address 13,Mall Road,75.93647773106291,19.422495415238153,Fast Food,776,Indian Rupees(Rs.),No,No,Yes,3,3.6,Green,Good,494
+100014,Restaurant 14,1,Pune,Sample Address 14,Sector 18,85.42475506106152,27.64974066874558,Cafe,2021,Indian Rupees(Rs.),No,Yes,No,1,3.1,Green,Good,2410
+100015,Restaurant 15,1,Kolkata,Sample Address 15,Main Market,84.03189193496809,18.795794932685588,North Indian,1545,Indian Rupees(Rs.),Yes,No,No,1,2.8,Green,Good,499
+100016,Restaurant 16,1,Pune,Sample Address 16,Sector 18,84.402048861474,20.9564461920197,North Indian,2002,Indian Rupees(Rs.),Yes,Yes,Yes,2,3.5,Green,Good,235
+100017,Restaurant 17,1,Bengaluru,Sample Address 17,Central,74.85760669944982,19.958823126699677,South Indian,1660,Indian Rupees(Rs.),No,Yes,Yes,2,2.9,Green,Good,1684
+100018,Restaurant 18,1,Gurgaon,Sample Address 18,Central,74.7429347173104,26.42303299506063,Mughlai,1208,Indian Rupees(Rs.),No,Yes,No,4,3.6,Green,Good,2168
+100019,Restaurant 19,1,Pune,Sample Address 19,Sector 18,87.36273205080217,20.52168311757156,Cafe,2180,Indian Rupees(Rs.),Yes,Yes,No,2,4.0,Green,Good,318
+100020,Restaurant 20,1,Mumbai,Sample Address 20,Mall Road,79.04197764305157,27.78850991673503,Fast Food,1295,Indian Rupees(Rs.),No,Yes,Yes,1,2.2,Green,Good,1769
+100021,Restaurant 21,1,Bengaluru,Sample Address 21,Central,77.52489446096075,25.193944201140397,Mughlai,2384,Indian Rupees(Rs.),Yes,Yes,Yes,4,2.0,Green,Good,1351
+100022,Restaurant 22,1,Noida,Sample Address 22,Sector 18,80.47076951201907,18.868859647045902,South Indian,2487,Indian Rupees(Rs.),Yes,No,No,1,2.6,Green,Good,2075
+100023,Restaurant 23,1,Gurgaon,Sample Address 23,Main Market,83.20696814038824,18.555384308112746,Bakery,1554,Indian Rupees(Rs.),No,Yes,No,1,4.6,Green,Good,317
+100024,Restaurant 24,1,Hyderabad,Sample Address 24,Central,87.80328513563742,19.02691075354687,Mughlai,1751,Indian Rupees(Rs.),Yes,No,No,2,3.9,Green,Good,2439
+100025,Restaurant 25,1,Pune,Sample Address 25,Main Market,77.29720576204826,24.68043681200682,Fast Food,788,Indian Rupees(Rs.),No,No,Yes,2,2.5,Green,Good,1547
+100026,Restaurant 26,1,Kolkata,Sample Address 26,Sector 18,87.31949234019882,26.675114470766033,Bakery,2073,Indian Rupees(Rs.),No,No,Yes,3,4.6,Green,Good,2105
+100027,Restaurant 27,1,Mumbai,Sample Address 27,Mall Road,73.19029401476422,20.933238770399363,North Indian,1744,Indian Rupees(Rs.),No,Yes,No,4,3.4,Green,Good,904
+100028,Restaurant 28,1,Pune,Sample Address 28,Main Market,81.51660926453114,27.163970197815345,Bakery,2275,Indian Rupees(Rs.),No,No,No,4,3.4,Green,Good,2358
+100029,Restaurant 29,1,Bengaluru,Sample Address 29,Main Market,82.75340925339303,19.083765789563255,Chinese,814,Indian Rupees(Rs.),Yes,No,No,2,4.7,Green,Good,1565
+100030,Restaurant 30,1,Mumbai,Sample Address 30,Central,74.46258923888682,26.669831307145095,Italian,2011,Indian Rupees(Rs.),Yes,No,Yes,4,2.2,Green,Good,317
+100031,Restaurant 31,1,Mumbai,Sample Address 31,Sector 18,75.00333167390343,27.96351338775726,Cafe,1281,Indian Rupees(Rs.),No,Yes,No,3,2.6,Green,Good,2307
+100032,Restaurant 32,1,Gurgaon,Sample Address 32,Mall Road,79.38009481326597,26.375505670864683,Mughlai,625,Indian Rupees(Rs.),No,No,Yes,1,3.7,Green,Good,1989
+100033,Restaurant 33,1,New Delhi,Sample Address 33,Central,87.96984102064795,25.620831996582098,Bakery,593,Indian Rupees(Rs.),Yes,No,Yes,4,2.6,Green,Good,750
+100034,Restaurant 34,1,Bengaluru,Sample Address 34,Mall Road,82.15786808577965,27.047398230284905,Mughlai,1492,Indian Rupees(Rs.),No,Yes,No,1,4.0,Green,Good,1364
+100035,Restaurant 35,1,Hyderabad,Sample Address 35,Sector 18,87.44846457912331,18.90954325538008,Mughlai,934,Indian Rupees(Rs.),Yes,Yes,No,3,2.6,Green,Good,970
+100036,Restaurant 36,1,New Delhi,Sample Address 36,Main Market,85.42846637512363,20.558177529334365,Italian,434,Indian Rupees(Rs.),No,Yes,No,4,2.3,Green,Good,1358
+100037,Restaurant 37,1,Pune,Sample Address 37,Main Market,80.13789114441808,19.774221528917558,North Indian,1182,Indian Rupees(Rs.),Yes,No,No,1,2.6,Green,Good,2413
+100038,Restaurant 38,1,Pune,Sample Address 38,Sector 18,85.12078615325935,23.646216099968463,North Indian,1701,Indian Rupees(Rs.),No,Yes,Yes,2,3.2,Green,Good,2247
+100039,Restaurant 39,1,Noida,Sample Address 39,Sector 18,73.0800375084387,26.100918908954213,Italian,933,Indian Rupees(Rs.),Yes,Yes,No,2,2.5,Green,Good,538
+100040,Restaurant 40,1,Kolkata,Sample Address 40,Main Market,74.51356074922204,24.926120814679265,North Indian,2397,Indian Rupees(Rs.),Yes,No,Yes,4,2.4,Green,Good,2429
+100041,Restaurant 41,1,Gurgaon,Sample Address 41,Central,85.82202925365895,27.181537217571737,South Indian,1992,Indian Rupees(Rs.),No,Yes,Yes,1,4.5,Green,Good,1094
+100042,Restaurant 42,1,Pune,Sample Address 42,Main Market,85.31002828670503,20.083172522899126,Cafe,1379,Indian Rupees(Rs.),Yes,Yes,No,3,2.9,Green,Good,1762
+100043,Restaurant 43,1,Kolkata,Sample Address 43,Central,76.452459648873,25.993135137738648,Bakery,2349,Indian Rupees(Rs.),Yes,No,No,2,3.0,Green,Good,1910
+100044,Restaurant 44,1,Noida,Sample Address 44,Main Market,81.13308257240514,20.469023206862822,Fast Food,1195,Indian Rupees(Rs.),No,No,No,1,2.2,Green,Good,1207
+100045,Restaurant 45,1,New Delhi,Sample Address 45,Main Market,82.31444838499017,21.261739263441562,Bakery,521,Indian Rupees(Rs.),Yes,No,Yes,3,3.0,Green,Good,1141
+100046,Restaurant 46,1,Hyderabad,Sample Address 46,Central,86.42350157428338,25.7410279122693,Bakery,282,Indian Rupees(Rs.),Yes,No,No,4,2.8,Green,Good,1141
+100047,Restaurant 47,1,Mumbai,Sample Address 47,Mall Road,82.26878237021799,28.498088805966553,Cafe,2357,Indian Rupees(Rs.),Yes,Yes,Yes,3,3.8,Green,Good,2156
+100048,Restaurant 48,1,Hyderabad,Sample Address 48,Sector 18,79.27737363759678,24.73774478096611,Fast Food,2407,Indian Rupees(Rs.),No,No,No,1,2.6,Green,Good,965
+100049,Restaurant 49,1,Kolkata,Sample Address 49,Mall Road,78.67468948149276,19.055903212911215,Italian,1900,Indian Rupees(Rs.),No,No,No,1,4.6,Green,Good,699
+100050,Restaurant 50,1,Pune,Sample Address 50,Central,79.4863487560641,24.786351493260835,Bakery,436,Indian Rupees(Rs.),No,Yes,No,2,4.7,Green,Good,903
+100051,Restaurant 51,1,Pune,Sample Address 51,Central,83.0353171016056,18.931975626117705,Chinese,875,Indian Rupees(Rs.),Yes,Yes,Yes,3,2.3,Green,Good,487
+100052,Restaurant 52,1,Gurgaon,Sample Address 52,Sector 18,86.4196029185115,27.518286255941533,Fast Food,294,Indian Rupees(Rs.),Yes,Yes,Yes,3,2.3,Green,Good,978
+100053,Restaurant 53,1,Noida,Sample Address 53,Central,79.9261810485979,25.73769850802633,North Indian,317,Indian Rupees(Rs.),Yes,Yes,Yes,1,2.3,Green,Good,285
+100054,Restaurant 54,1,Mumbai,Sample Address 54,Sector 18,76.69108113833632,20.265904033509532,Cafe,765,Indian Rupees(Rs.),No,Yes,No,3,3.8,Green,Good,224
+100055,Restaurant 55,1,Mumbai,Sample Address 55,Main Market,76.51559909906202,19.43555425940682,Mughlai,1515,Indian Rupees(Rs.),Yes,Yes,No,2,2.4,Green,Good,1809
+100056,Restaurant 56,1,New Delhi,Sample Address 56,Central,84.5124241998221,20.372038934579255,North Indian,350,Indian Rupees(Rs.),Yes,No,Yes,3,4.5,Green,Good,193
+100057,Restaurant 57,1,Bengaluru,Sample Address 57,Main Market,85.6201295857554,28.496277231452762,Chinese,2464,Indian Rupees(Rs.),No,Yes,No,4,4.2,Green,Good,1420
+100058,Restaurant 58,1,Gurgaon,Sample Address 58,Central,74.45286585370975,23.177318553076596,South Indian,1246,Indian Rupees(Rs.),No,No,No,3,4.4,Green,Good,1949
+100059,Restaurant 59,1,Kolkata,Sample Address 59,Central,73.8449740541963,26.49762567308236,South Indian,806,Indian Rupees(Rs.),No,No,Yes,1,3.5,Green,Good,1811
+100060,Restaurant 60,1,Kolkata,Sample Address 60,Main Market,82.13260852097629,24.991365089499325,Cafe,1387,Indian Rupees(Rs.),Yes,No,Yes,4,4.9,Green,Good,1115
+100061,Restaurant 61,1,Hyderabad,Sample Address 61,Mall Road,75.09491993382537,24.3386141295781,Italian,2017,Indian Rupees(Rs.),No,No,No,1,2.1,Green,Good,484
+100062,Restaurant 62,1,Kolkata,Sample Address 62,Central,85.74722779016456,19.980328597583508,Bakery,918,Indian Rupees(Rs.),No,Yes,No,4,3.2,Green,Good,2326
+100063,Restaurant 63,1,Noida,Sample Address 63,Sector 18,77.67225438060797,28.14944942629257,Fast Food,309,Indian Rupees(Rs.),Yes,No,Yes,1,2.9,Green,Good,2087
+100064,Restaurant 64,1,Hyderabad,Sample Address 64,Mall Road,75.05878934764694,21.573694851650124,Cafe,317,Indian Rupees(Rs.),No,Yes,No,3,4.8,Green,Good,1530
+100065,Restaurant 65,1,Mumbai,Sample Address 65,Mall Road,87.25923641805296,24.39577560123693,Chinese,2159,Indian Rupees(Rs.),No,No,No,1,3.7,Green,Good,216
+100066,Restaurant 66,1,Noida,Sample Address 66,Main Market,75.39884804694387,25.637714634808475,North Indian,456,Indian Rupees(Rs.),Yes,Yes,No,1,4.3,Green,Good,87
+100067,Restaurant 67,1,Hyderabad,Sample Address 67,Sector 18,77.27010529270558,25.12217818350215,North Indian,1661,Indian Rupees(Rs.),No,Yes,No,3,2.5,Green,Good,788
+100068,Restaurant 68,1,Noida,Sample Address 68,Sector 18,75.21173030451531,28.094062978894286,Italian,1084,Indian Rupees(Rs.),No,No,No,3,4.8,Green,Good,393
+100069,Restaurant 69,1,New Delhi,Sample Address 69,Main Market,74.61319399954607,20.014077697184593,Bakery,1988,Indian Rupees(Rs.),No,Yes,Yes,1,3.4,Green,Good,2150
+100070,Restaurant 70,1,Mumbai,Sample Address 70,Main Market,73.1320238564821,23.685197932158808,North Indian,339,Indian Rupees(Rs.),No,No,Yes,4,3.4,Green,Good,514
+100071,Restaurant 71,1,Pune,Sample Address 71,Sector 18,73.66970792387887,22.621150785555812,Italian,2264,Indian Rupees(Rs.),No,Yes,Yes,2,4.8,Green,Good,706
+100072,Restaurant 72,1,Gurgaon,Sample Address 72,Central,75.54187109369289,23.336521040722705,North Indian,1805,Indian Rupees(Rs.),No,Yes,No,2,3.1,Green,Good,2439
+100073,Restaurant 73,1,Mumbai,Sample Address 73,Central,73.63809634224666,19.716018767216994,Bakery,1233,Indian Rupees(Rs.),Yes,No,Yes,2,3.2,Green,Good,2045
+100074,Restaurant 74,1,Gurgaon,Sample Address 74,Mall Road,82.08095791294225,19.867765020702205,Mughlai,676,Indian Rupees(Rs.),No,No,Yes,2,3.7,Green,Good,546
+100075,Restaurant 75,1,Kolkata,Sample Address 75,Sector 18,83.48721807075225,21.336370566968824,Cafe,2447,Indian Rupees(Rs.),No,Yes,No,1,2.4,Green,Good,958
+100076,Restaurant 76,1,Mumbai,Sample Address 76,Sector 18,78.97999817226284,21.607986958360478,Mughlai,894,Indian Rupees(Rs.),No,Yes,Yes,2,2.9,Green,Good,1289
+100077,Restaurant 77,1,Noida,Sample Address 77,Sector 18,77.79246022214717,22.86461277954977,Mughlai,1328,Indian Rupees(Rs.),Yes,Yes,Yes,1,2.6,Green,Good,1660
+100078,Restaurant 78,1,Gurgaon,Sample Address 78,Mall Road,80.72106192124902,24.73207297977361,Cafe,1106,Indian Rupees(Rs.),Yes,No,Yes,1,2.3,Green,Good,2340
+100079,Restaurant 79,1,Bengaluru,Sample Address 79,Central,86.53757759308336,24.97321699766628,North Indian,730,Indian Rupees(Rs.),No,No,Yes,2,4.5,Green,Good,2177
+100080,Restaurant 80,1,Kolkata,Sample Address 80,Central,86.16276654110864,22.700471145172816,Cafe,1158,Indian Rupees(Rs.),No,Yes,Yes,3,3.7,Green,Good,2442
+100081,Restaurant 81,1,Hyderabad,Sample Address 81,Sector 18,73.48255847360083,22.66958771617271,Mughlai,548,Indian Rupees(Rs.),No,Yes,No,4,3.0,Green,Good,101
+100082,Restaurant 82,1,Mumbai,Sample Address 82,Sector 18,75.64952503066543,20.719810972309013,Mughlai,203,Indian Rupees(Rs.),Yes,Yes,Yes,2,3.2,Green,Good,590
+100083,Restaurant 83,1,Gurgaon,Sample Address 83,Main Market,76.51689447633902,24.500723733771885,Fast Food,866,Indian Rupees(Rs.),Yes,Yes,Yes,2,3.3,Green,Good,1407
+100084,Restaurant 84,1,Pune,Sample Address 84,Sector 18,76.71538494056573,21.733817295435827,Cafe,457,Indian Rupees(Rs.),No,No,No,4,3.8,Green,Good,122
+100085,Restaurant 85,1,Kolkata,Sample Address 85,Sector 18,81.76835263236153,18.86781030962911,Fast Food,1153,Indian Rupees(Rs.),Yes,No,Yes,3,4.7,Green,Good,888
+100086,Restaurant 86,1,Kolkata,Sample Address 86,Mall Road,79.33532008354011,22.767680450399975,North Indian,2184,Indian Rupees(Rs.),No,Yes,No,4,4.7,Green,Good,384
+100087,Restaurant 87,1,New Delhi,Sample Address 87,Central,73.57328968286322,23.336153285919735,Bakery,573,Indian Rupees(Rs.),Yes,No,No,4,3.1,Green,Good,2332
+100088,Restaurant 88,1,Noida,Sample Address 88,Main Market,78.66574197381527,20.801047255682953,Chinese,202,Indian Rupees(Rs.),Yes,Yes,No,4,3.0,Green,Good,158
+100089,Restaurant 89,1,Pune,Sample Address 89,Main Market,81.0229212948669,24.33907091784558,North Indian,455,Indian Rupees(Rs.),No,Yes,Yes,4,3.3,Green,Good,371
+100090,Restaurant 90,1,Pune,Sample Address 90,Sector 18,74.39624887558834,24.270873384405593,South Indian,1368,Indian Rupees(Rs.),Yes,Yes,Yes,2,3.6,Green,Good,487
+100091,Restaurant 91,1,Mumbai,Sample Address 91,Mall Road,85.88529929448039,25.660422247325787,Chinese,832,Indian Rupees(Rs.),No,Yes,No,2,3.3,Green,Good,371
+100092,Restaurant 92,1,Pune,Sample Address 92,Sector 18,73.61580130350214,25.109074518452342,Cafe,1325,Indian Rupees(Rs.),No,Yes,Yes,2,3.9,Green,Good,1421
+100093,Restaurant 93,1,Pune,Sample Address 93,Mall Road,87.32001734358357,25.15481717651452,Fast Food,267,Indian Rupees(Rs.),No,No,No,1,3.6,Green,Good,910
+100094,Restaurant 94,1,Mumbai,Sample Address 94,Sector 18,74.35607632280404,21.72538434860524,North Indian,966,Indian Rupees(Rs.),Yes,No,Yes,3,2.9,Green,Good,2281
+100095,Restaurant 95,1,Hyderabad,Sample Address 95,Main Market,86.04412674008472,26.53180866425673,Bakery,1143,Indian Rupees(Rs.),Yes,Yes,Yes,3,3.0,Green,Good,652
+100096,Restaurant 96,1,Noida,Sample Address 96,Main Market,86.97165435966359,24.101272712716728,South Indian,1192,Indian Rupees(Rs.),No,No,No,4,3.1,Green,Good,1343
+100097,Restaurant 97,1,Gurgaon,Sample Address 97,Mall Road,88.1792596852095,22.900465590834877,Italian,1467,Indian Rupees(Rs.),Yes,No,No,1,2.3,Green,Good,1650
+100098,Restaurant 98,1,Kolkata,Sample Address 98,Sector 18,85.39180632029542,24.885327305598782,Mughlai,1995,Indian Rupees(Rs.),Yes,No,No,2,2.5,Green,Good,1564
+100099,Restaurant 99,1,Kolkata,Sample Address 99,Sector 18,85.03779739010986,22.178704811392592,South Indian,1274,Indian Rupees(Rs.),Yes,No,No,1,4.1,Green,Good,1990
+100100,Restaurant 100,1,Gurgaon,Sample Address 100,Central,82.8869874331301,23.729940294988936,North Indian,2134,Indian Rupees(Rs.),No,Yes,Yes,4,3.1,Green,Good,504
+100101,Restaurant 101,1,Pune,Sample Address 101,Sector 18,85.03024276687663,26.014398022518648,Cafe,1418,Indian Rupees(Rs.),Yes,No,No,2,2.6,Green,Good,1268
+100102,Restaurant 102,1,Gurgaon,Sample Address 102,Mall Road,74.9124696720864,27.54130944458182,Fast Food,798,Indian Rupees(Rs.),Yes,No,No,1,3.6,Green,Good,2001
+100103,Restaurant 103,1,Pune,Sample Address 103,Central,81.21626816437791,27.894783412410952,Mughlai,726,Indian Rupees(Rs.),No,No,Yes,3,4.2,Green,Good,2157
+100104,Restaurant 104,1,New Delhi,Sample Address 104,Mall Road,80.87329906198951,23.63705583686761,Bakery,941,Indian Rupees(Rs.),Yes,Yes,Yes,4,2.7,Green,Good,1544
+100105,Restaurant 105,1,Pune,Sample Address 105,Main Market,86.26388266272416,23.806806170353806,South Indian,1574,Indian Rupees(Rs.),No,Yes,No,4,4.4,Green,Good,1629
+100106,Restaurant 106,1,Pune,Sample Address 106,Central,80.0659500398182,26.658678189791132,Mughlai,757,Indian Rupees(Rs.),No,Yes,Yes,1,4.7,Green,Good,2160
+100107,Restaurant 107,1,Pune,Sample Address 107,Sector 18,78.84590508877555,21.707397055790853,Italian,2302,Indian Rupees(Rs.),No,Yes,No,2,3.7,Green,Good,1562
+100108,Restaurant 108,1,Kolkata,Sample Address 108,Main Market,82.84114335842263,27.0413000959197,Chinese,1303,Indian Rupees(Rs.),No,Yes,Yes,1,3.9,Green,Good,2372
+100109,Restaurant 109,1,Mumbai,Sample Address 109,Sector 18,76.98347408476329,23.54024479447772,Fast Food,2185,Indian Rupees(Rs.),Yes,Yes,Yes,2,2.2,Green,Good,318
+100110,Restaurant 110,1,Kolkata,Sample Address 110,Central,74.99436405197712,19.681738588219737,Cafe,1771,Indian Rupees(Rs.),Yes,No,Yes,3,4.7,Green,Good,869
+100111,Restaurant 111,1,Noida,Sample Address 111,Main Market,80.30267320217281,19.235003300144026,South Indian,966,Indian Rupees(Rs.),Yes,Yes,Yes,2,3.1,Green,Good,280
+100112,Restaurant 112,1,Pune,Sample Address 112,Main Market,79.34516308693969,27.088330752602523,Italian,724,Indian Rupees(Rs.),Yes,No,No,1,4.7,Green,Good,226
+100113,Restaurant 113,1,Bengaluru,Sample Address 113,Central,76.45134806630331,19.066792752450155,Cafe,1911,Indian Rupees(Rs.),No,Yes,No,3,3.7,Green,Good,1179
+100114,Restaurant 114,1,Mumbai,Sample Address 114,Sector 18,78.5699354188075,21.36223664856329,Cafe,960,Indian Rupees(Rs.),No,No,No,1,2.0,Green,Good,564
+100115,Restaurant 115,1,Bengaluru,Sample Address 115,Central,78.55236146227209,21.908126413115767,Bakery,767,Indian Rupees(Rs.),No,Yes,No,1,2.1,Green,Good,1017
+100116,Restaurant 116,1,Bengaluru,Sample Address 116,Main Market,77.94168036127697,20.264543340954255,Italian,2339,Indian Rupees(Rs.),No,No,Yes,1,4.0,Green,Good,1094
+100117,Restaurant 117,1,New Delhi,Sample Address 117,Main Market,78.75758605171278,21.70171237198029,Mughlai,1310,Indian Rupees(Rs.),No,Yes,No,1,3.6,Green,Good,1552
+100118,Restaurant 118,1,Gurgaon,Sample Address 118,Main Market,83.56617052365834,26.075464180595873,South Indian,311,Indian Rupees(Rs.),Yes,Yes,No,2,2.1,Green,Good,2364
+100119,Restaurant 119,1,Gurgaon,Sample Address 119,Mall Road,77.46096065076918,18.649765004312723,Fast Food,1337,Indian Rupees(Rs.),Yes,Yes,No,4,4.2,Green,Good,2123
+100120,Restaurant 120,1,New Delhi,Sample Address 120,Mall Road,87.69706944943084,26.937168930111,Fast Food,1259,Indian Rupees(Rs.),No,No,No,4,4.5,Green,Good,945
+100121,Restaurant 121,1,Mumbai,Sample Address 121,Sector 18,87.18666390674939,27.236789840460492,North Indian,2187,Indian Rupees(Rs.),Yes,Yes,No,1,3.4,Green,Good,813
+100122,Restaurant 122,1,Kolkata,Sample Address 122,Central,80.35029372431123,22.29706804655379,Italian,1836,Indian Rupees(Rs.),No,No,No,1,3.4,Green,Good,1926
+100123,Restaurant 123,1,Kolkata,Sample Address 123,Main Market,77.95527091857362,20.066851570418475,South Indian,640,Indian Rupees(Rs.),No,No,No,2,2.0,Green,Good,309
+100124,Restaurant 124,1,Mumbai,Sample Address 124,Mall Road,81.20632620033105,24.628572161039823,Bakery,546,Indian Rupees(Rs.),No,Yes,No,3,4.3,Green,Good,1351
+100125,Restaurant 125,1,Pune,Sample Address 125,Mall Road,86.1223996737459,19.72066006982192,Cafe,1588,Indian Rupees(Rs.),No,Yes,No,3,3.0,Green,Good,1057
+100126,Restaurant 126,1,Bengaluru,Sample Address 126,Central,83.0456212467936,22.222177482998177,Chinese,308,Indian Rupees(Rs.),No,Yes,Yes,4,4.5,Green,Good,457
+100127,Restaurant 127,1,New Delhi,Sample Address 127,Central,85.42895169876911,28.27597764518992,Mughlai,933,Indian Rupees(Rs.),No,Yes,Yes,2,3.1,Green,Good,1541
+100128,Restaurant 128,1,Pune,Sample Address 128,Central,81.16373973423212,28.6537376203531,North Indian,517,Indian Rupees(Rs.),No,Yes,No,1,3.6,Green,Good,801
+100129,Restaurant 129,1,Bengaluru,Sample Address 129,Central,82.73680677950165,26.37546989181677,Mughlai,247,Indian Rupees(Rs.),Yes,Yes,Yes,1,2.8,Green,Good,463
+100130,Restaurant 130,1,Kolkata,Sample Address 130,Main Market,77.32404314266465,21.671807401191813,Italian,2313,Indian Rupees(Rs.),Yes,No,Yes,1,2.5,Green,Good,1632
+100131,Restaurant 131,1,Bengaluru,Sample Address 131,Main Market,84.33782264827157,25.514183501494145,Fast Food,406,Indian Rupees(Rs.),No,Yes,No,1,4.2,Green,Good,435
+100132,Restaurant 132,1,Bengaluru,Sample Address 132,Sector 18,75.97775211207377,25.69514492793693,Mughlai,221,Indian Rupees(Rs.),No,Yes,No,4,3.4,Green,Good,1682
+100133,Restaurant 133,1,New Delhi,Sample Address 133,Sector 18,83.70833062245042,22.455985290669226,Fast Food,2345,Indian Rupees(Rs.),No,No,No,2,3.6,Green,Good,405
+100134,Restaurant 134,1,Bengaluru,Sample Address 134,Mall Road,86.31328937271654,25.037064072778826,Cafe,633,Indian Rupees(Rs.),No,No,Yes,4,4.8,Green,Good,1086
+100135,Restaurant 135,1,Pune,Sample Address 135,Sector 18,74.87401454563424,18.609421978751897,South Indian,2078,Indian Rupees(Rs.),No,Yes,Yes,3,4.8,Green,Good,2019
+100136,Restaurant 136,1,Noida,Sample Address 136,Mall Road,82.44576192650814,20.632388117742863,Bakery,271,Indian Rupees(Rs.),No,Yes,No,3,4.5,Green,Good,571
+100137,Restaurant 137,1,Bengaluru,Sample Address 137,Mall Road,74.29300324720997,23.855900690266065,Mughlai,553,Indian Rupees(Rs.),No,Yes,No,2,2.5,Green,Good,1919
+100138,Restaurant 138,1,New Delhi,Sample Address 138,Sector 18,84.1937353638614,20.170263303434616,Italian,454,Indian Rupees(Rs.),Yes,No,Yes,4,3.7,Green,Good,1804
+100139,Restaurant 139,1,Noida,Sample Address 139,Central,74.12654353552927,20.192250052340643,Cafe,1824,Indian Rupees(Rs.),Yes,No,No,1,4.5,Green,Good,2256
+100140,Restaurant 140,1,Mumbai,Sample Address 140,Mall Road,87.49425521639984,27.030303763612427,Fast Food,1626,Indian Rupees(Rs.),Yes,Yes,Yes,1,3.1,Green,Good,422
+100141,Restaurant 141,1,Hyderabad,Sample Address 141,Main Market,74.9573045015935,28.589156627372773,South Indian,1293,Indian Rupees(Rs.),Yes,Yes,No,2,2.3,Green,Good,1787
+100142,Restaurant 142,1,Gurgaon,Sample Address 142,Sector 18,87.85441986077257,24.170888165890172,Chinese,755,Indian Rupees(Rs.),No,Yes,No,2,4.4,Green,Good,2341
+100143,Restaurant 143,1,Noida,Sample Address 143,Main Market,85.37388156453602,27.058511254993476,North Indian,404,Indian Rupees(Rs.),Yes,No,No,3,3.4,Green,Good,1907
+100144,Restaurant 144,1,Mumbai,Sample Address 144,Main Market,82.12080747012176,28.60128097612798,South Indian,1509,Indian Rupees(Rs.),Yes,Yes,No,3,3.6,Green,Good,469
+100145,Restaurant 145,1,Hyderabad,Sample Address 145,Mall Road,85.08719844268388,19.9442780634015,Chinese,730,Indian Rupees(Rs.),Yes,Yes,Yes,3,4.8,Green,Good,2055
+100146,Restaurant 146,1,Pune,Sample Address 146,Sector 18,85.28330297203445,23.07210525519438,Bakery,1557,Indian Rupees(Rs.),No,Yes,Yes,2,3.8,Green,Good,268
+100147,Restaurant 147,1,New Delhi,Sample Address 147,Mall Road,87.65262488623209,22.50424170158758,Cafe,1781,Indian Rupees(Rs.),No,Yes,Yes,2,3.2,Green,Good,1472
+100148,Restaurant 148,1,Gurgaon,Sample Address 148,Mall Road,76.77811865527524,19.316502693191087,Mughlai,2153,Indian Rupees(Rs.),Yes,No,No,4,3.1,Green,Good,1244
+100149,Restaurant 149,1,Pune,Sample Address 149,Central,82.06419155712545,26.204367762506394,Mughlai,1336,Indian Rupees(Rs.),No,Yes,No,1,3.2,Green,Good,1327
+100150,Restaurant 150,1,New Delhi,Sample Address 150,Central,74.2922724017611,22.924546078690447,South Indian,210,Indian Rupees(Rs.),No,Yes,No,3,2.3,Green,Good,1298
+100151,Restaurant 151,1,Pune,Sample Address 151,Main Market,82.4738014903787,23.287134728742092,North Indian,845,Indian Rupees(Rs.),No,No,Yes,3,4.3,Green,Good,78
+100152,Restaurant 152,1,Noida,Sample Address 152,Central,75.48927347425678,20.03686433289505,Fast Food,2162,Indian Rupees(Rs.),No,No,Yes,4,4.4,Green,Good,1270
+100153,Restaurant 153,1,Hyderabad,Sample Address 153,Sector 18,81.66972460011733,20.345451852754856,Fast Food,1426,Indian Rupees(Rs.),No,Yes,No,3,2.8,Green,Good,2341
+100154,Restaurant 154,1,Noida,Sample Address 154,Sector 18,81.78715907033144,27.752456945993394,Bakery,1623,Indian Rupees(Rs.),Yes,Yes,No,2,2.9,Green,Good,1091
+100155,Restaurant 155,1,Mumbai,Sample Address 155,Mall Road,80.11596690180527,18.955420707537645,Chinese,1252,Indian Rupees(Rs.),No,No,No,2,4.5,Green,Good,692
+100156,Restaurant 156,1,Kolkata,Sample Address 156,Mall Road,81.00531887555603,20.875093306425804,Fast Food,574,Indian Rupees(Rs.),Yes,Yes,Yes,2,2.1,Green,Good,2487
+100157,Restaurant 157,1,Gurgaon,Sample Address 157,Central,84.79359722310343,21.47900516920819,Italian,2262,Indian Rupees(Rs.),Yes,No,Yes,2,3.5,Green,Good,247
+100158,Restaurant 158,1,Bengaluru,Sample Address 158,Mall Road,85.34814204923944,23.500014932496182,Chinese,1977,Indian Rupees(Rs.),No,No,No,1,3.3,Green,Good,1215
+100159,Restaurant 159,1,Bengaluru,Sample Address 159,Central,80.52680548453424,24.481740764750917,North Indian,2488,Indian Rupees(Rs.),No,No,No,3,4.0,Green,Good,1281
+100160,Restaurant 160,1,Pune,Sample Address 160,Main Market,82.21361703190502,23.5315577536768,Italian,2167,Indian Rupees(Rs.),No,Yes,Yes,1,2.5,Green,Good,1194
+100161,Restaurant 161,1,Hyderabad,Sample Address 161,Mall Road,87.42040890033459,19.3579764124802,North Indian,869,Indian Rupees(Rs.),Yes,No,No,3,3.9,Green,Good,2304
+100162,Restaurant 162,1,Kolkata,Sample Address 162,Mall Road,74.67981733946763,20.98540803136828,North Indian,784,Indian Rupees(Rs.),Yes,No,Yes,4,3.1,Green,Good,1054
+100163,Restaurant 163,1,Mumbai,Sample Address 163,Central,74.63852598463173,27.10460152457792,Italian,771,Indian Rupees(Rs.),Yes,Yes,Yes,4,3.8,Green,Good,2433
+100164,Restaurant 164,1,Mumbai,Sample Address 164,Mall Road,74.17703148699906,25.00340474488028,Chinese,2313,Indian Rupees(Rs.),No,No,No,1,2.1,Green,Good,167
+100165,Restaurant 165,1,Mumbai,Sample Address 165,Central,83.12845357513629,25.121320311369598,South Indian,1480,Indian Rupees(Rs.),No,No,No,4,3.3,Green,Good,1834
+100166,Restaurant 166,1,Pune,Sample Address 166,Main Market,79.37215032240896,25.33607320458382,North Indian,1245,Indian Rupees(Rs.),No,No,No,1,3.5,Green,Good,1482
+100167,Restaurant 167,1,Noida,Sample Address 167,Sector 18,84.95684623342694,26.281610794203196,Italian,2427,Indian Rupees(Rs.),No,Yes,Yes,2,2.6,Green,Good,601
+100168,Restaurant 168,1,Gurgaon,Sample Address 168,Sector 18,83.3383331889449,19.092706513558763,Fast Food,1587,Indian Rupees(Rs.),Yes,Yes,No,1,2.4,Green,Good,569
+100169,Restaurant 169,1,Noida,Sample Address 169,Central,78.03811280575334,22.239405526312645,Bakery,2291,Indian Rupees(Rs.),Yes,No,No,1,2.5,Green,Good,1799
+100170,Restaurant 170,1,New Delhi,Sample Address 170,Mall Road,86.90435479357612,24.003179839669123,Mughlai,2464,Indian Rupees(Rs.),Yes,Yes,No,1,3.0,Green,Good,1594
+100171,Restaurant 171,1,New Delhi,Sample Address 171,Sector 18,84.77175470900924,21.952256129632726,Bakery,382,Indian Rupees(Rs.),Yes,No,Yes,1,2.3,Green,Good,1527
+100172,Restaurant 172,1,New Delhi,Sample Address 172,Main Market,77.04739857228975,27.1136845075293,Italian,1031,Indian Rupees(Rs.),Yes,No,No,4,4.7,Green,Good,127
+100173,Restaurant 173,1,Pune,Sample Address 173,Sector 18,78.51781467902124,23.422239587590397,Fast Food,1888,Indian Rupees(Rs.),Yes,No,No,1,3.2,Green,Good,1494
+100174,Restaurant 174,1,Kolkata,Sample Address 174,Sector 18,77.73670768920692,26.340001412485666,Fast Food,2070,Indian Rupees(Rs.),Yes,Yes,No,2,4.3,Green,Good,2453
+100175,Restaurant 175,1,Kolkata,Sample Address 175,Mall Road,75.2745028834125,27.19055827218792,Bakery,541,Indian Rupees(Rs.),No,No,Yes,3,4.8,Green,Good,43
+100176,Restaurant 176,1,Mumbai,Sample Address 176,Central,75.1201989489124,23.64887312561568,Bakery,932,Indian Rupees(Rs.),Yes,Yes,No,4,2.2,Green,Good,1172
+100177,Restaurant 177,1,Kolkata,Sample Address 177,Main Market,87.49720117499918,27.77743288748777,Bakery,1460,Indian Rupees(Rs.),Yes,No,Yes,4,3.9,Green,Good,1235
+100178,Restaurant 178,1,Gurgaon,Sample Address 178,Main Market,79.67509338402043,24.488664193477202,Cafe,2038,Indian Rupees(Rs.),Yes,Yes,Yes,1,4.5,Green,Good,2241
+100179,Restaurant 179,1,Hyderabad,Sample Address 179,Sector 18,78.81812121760534,27.17279784810396,South Indian,459,Indian Rupees(Rs.),Yes,Yes,No,4,3.8,Green,Good,707
+100180,Restaurant 180,1,Bengaluru,Sample Address 180,Sector 18,84.25606562623483,21.974026115033546,South Indian,1581,Indian Rupees(Rs.),No,No,Yes,3,3.2,Green,Good,1188
+100181,Restaurant 181,1,Hyderabad,Sample Address 181,Central,81.48199112447053,23.587932977021147,Bakery,881,Indian Rupees(Rs.),Yes,No,No,1,3.3,Green,Good,1792
+100182,Restaurant 182,1,Gurgaon,Sample Address 182,Mall Road,87.49739779336386,23.92039261824669,Italian,697,Indian Rupees(Rs.),Yes,No,Yes,2,2.1,Green,Good,150
+100183,Restaurant 183,1,Mumbai,Sample Address 183,Mall Road,85.05073345437745,19.57079310213992,Italian,1385,Indian Rupees(Rs.),Yes,Yes,No,4,3.6,Green,Good,2002
+100184,Restaurant 184,1,Kolkata,Sample Address 184,Central,80.32610215675528,22.565235568355714,Bakery,1152,Indian Rupees(Rs.),No,No,No,2,4.9,Green,Good,2055
+100185,Restaurant 185,1,Mumbai,Sample Address 185,Central,78.70884373364898,27.856844260027096,Fast Food,1662,Indian Rupees(Rs.),No,No,No,1,4.8,Green,Good,1799
+100186,Restaurant 186,1,Mumbai,Sample Address 186,Central,88.29011525531186,24.93448885172037,Chinese,930,Indian Rupees(Rs.),Yes,No,Yes,4,2.1,Green,Good,1620
+100187,Restaurant 187,1,Gurgaon,Sample Address 187,Central,84.0688357052572,20.310567140857067,South Indian,2093,Indian Rupees(Rs.),Yes,No,Yes,4,4.0,Green,Good,1869
+100188,Restaurant 188,1,Mumbai,Sample Address 188,Mall Road,87.7337561620603,21.95632748321797,Italian,379,Indian Rupees(Rs.),Yes,Yes,Yes,4,2.9,Green,Good,1954
+100189,Restaurant 189,1,Gurgaon,Sample Address 189,Mall Road,74.66011366230755,20.454350698559537,Bakery,2182,Indian Rupees(Rs.),Yes,Yes,Yes,4,4.6,Green,Good,2258
+100190,Restaurant 190,1,Noida,Sample Address 190,Central,86.15337876329528,18.75319594434544,Bakery,268,Indian Rupees(Rs.),No,No,No,4,2.1,Green,Good,1070
+100191,Restaurant 191,1,Kolkata,Sample Address 191,Main Market,82.80205997866196,27.960096676741074,Italian,1892,Indian Rupees(Rs.),No,No,Yes,2,4.7,Green,Good,1140
+100192,Restaurant 192,1,Kolkata,Sample Address 192,Central,74.71417034986126,23.07171474822009,South Indian,996,Indian Rupees(Rs.),No,Yes,Yes,1,4.4,Green,Good,1594
+100193,Restaurant 193,1,Bengaluru,Sample Address 193,Sector 18,82.03565059951677,21.63685773869202,Bakery,1081,Indian Rupees(Rs.),Yes,Yes,Yes,3,2.3,Green,Good,482
+100194,Restaurant 194,1,Noida,Sample Address 194,Main Market,83.57171293215555,24.604467353888914,Mughlai,243,Indian Rupees(Rs.),Yes,No,Yes,1,2.2,Green,Good,2140
+100195,Restaurant 195,1,Hyderabad,Sample Address 195,Main Market,72.99315216845106,18.574607454188758,Chinese,1814,Indian Rupees(Rs.),Yes,No,No,2,4.4,Green,Good,1926
+100196,Restaurant 196,1,New Delhi,Sample Address 196,Mall Road,79.93279200091541,21.3358254873283,South Indian,580,Indian Rupees(Rs.),Yes,Yes,No,3,2.5,Green,Good,1577
+100197,Restaurant 197,1,Noida,Sample Address 197,Central,85.75877232578225,25.670941350128704,South Indian,1716,Indian Rupees(Rs.),No,No,Yes,4,3.6,Green,Good,754
+100198,Restaurant 198,1,New Delhi,Sample Address 198,Central,77.4371366979022,24.964451685306482,Mughlai,1867,Indian Rupees(Rs.),Yes,No,No,2,4.7,Green,Good,869
+100199,Restaurant 199,1,Noida,Sample Address 199,Sector 18,79.99920488423726,28.51442066493386,North Indian,2144,Indian Rupees(Rs.),Yes,Yes,No,2,3.6,Green,Good,1087
+100200,Restaurant 200,1,Hyderabad,Sample Address 200,Sector 18,79.74433179496592,24.82764863851205,Italian,1828,Indian Rupees(Rs.),No,Yes,Yes,3,3.2,Green,Good,1656
